@@ -2,7 +2,7 @@
 
 Code for: Hepatic Vascular Remodeling and Metabolic Recovery 
 During Liver Regeneration: Longitudinal Photoacoustic Computed 
-Tomography in Mice (Submitted to Radiology, 2025)
+Tomography in Mice (Submitted to Radiology, 2026)
 
 ## Requirements
 - MATLAB R2025a
